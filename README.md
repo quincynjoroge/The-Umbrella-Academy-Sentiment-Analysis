@@ -1,4 +1,6 @@
 # The Umbrella Academy Sentiment Analysis
+![Image of the Umbrella Academy Main Cast ie. Number 1 to Number 7](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/brelly.png)
+
 ## Project Scope and Objectives:
 Comparing sentiment across the three seasons and identifying the most talked-about character.
 ### Specific research questions:
@@ -7,6 +9,7 @@ Comparing sentiment across the three seasons and identifying the most talked-abo
 3. Which characters are most frequently mentioned or discussed in user-generated content?
 
 ## Data Collection
-## Preprocessing and Text Analysis
+## Preprocessing
 ## Character Analysis
-## Visualization and Dashboard Creation
+## Sentiment Analysis
+
