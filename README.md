@@ -51,6 +51,25 @@ To identify the characters mentioned in the text data, we implemented a characte
 ### Results
 The character analysis yielded insights into the most talked about characters for each season of "Umbrella Academy.
 #### Season 1 
+![Bar chart representing mentions of characters](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/s1_character.png)
+In the first season of "Umbrella Academy," we analyzed how the audience interacted and discussed the characters. Through this analysis, we found that Vanya was the character that generated the most conversations. With a total of 239 mentions, she clearly resonated with viewers and played a significant role in the story. Her journey from being powerless to possessing formidable abilities among her siblings was both captivating and pivotal to the plot. As she transformed from vulnerability to world-altering power, it's no surprise that she became a focal point of intense discussions and speculation. Vanya's journey solidified her status as a captivating and hotly-debated character.
 
+Following closely behind, we found Luther with 148 mentions, and Klaus with 139 mentions. These characters captured the audience's attention and sparked discussions, indicating their importance in shaping the narrative and viewer engagement for the first season.
+
+#### Season 2
+![Bar chart representing mentions of characters](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/s2_character.png)
+Transitioning to Season 2, character dynamics remained a driving force behind audience discussions. Vanya, once again, took center stage with an impressive 209 mentions, a testament to her enduring impact on the storyline. 
+
+This heightened attention to Vanya can be attributed to her unique character arc in this season. Stranded in the 1980s and grappling with amnesia, she had forgotten her extraordinary powers until her gradual recollection. Her journey of self-discovery and the looming threat of her world-altering abilities resurfacing kept viewers enthralled. In the words of Five, "Vanya is the BOMB!"—a sentiment that aptly captures the explosive intrigue surrounding her character in Season 2.
+
+Season 2 of the show saw Diego become a more prominent character, with a total of 175 mentions. This increase in attention was due to his important role in the season's plot, as he worked tirelessly to stop the assassination of J.F. Kennedy. Additionally, his romantic relationship with the new character Lila also contributed to his popularity among viewers. Meanwhile, Klaus remained a beloved character, receiving a total of 142 mentions. His charming and magnetic personality continued to captivate audiences, making him a fan favorite that viewers couldn't get enough of.
+
+#### Season 3
+![Bar chart representing mentions of characters](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/s3_character.png)
+In Season 3, a notable shift occurred in the character dynamics of "Umbrella Academy." Vanya, who had previously commanded significant attention, found herself notably absent from the list of the top 5 mentioned characters. This change can be attributed to her altered character arc in Season 3, where she assumed the role of Viktor, a character that did not have a profound impact in Season 3. 
+
+Instead, the spotlight turned to Allison, who took the lead with a substantial 633 mentions. However, this high mention count carries a distinct nuance. Unlike previous seasons, where positive character traits often fueled discussions, Allison's prominence in Season 3 was accompanied by polarizing opinions. Viewers seemed divided by the way Allison was portrayed in this season, with some perceiving her actions as selfish and potentially detrimental to her siblings. The fact that she almost sacrificed her own brothers and sisters for her personal gain seemed to provoke intense debate and criticism among the audience. 
+
+This shift in character dynamics and audience perceptions in Season 3 highlights the series' ability to evolve and challenge viewers' expectations, offering a different dimension to character interactions and storytelling. It also shows the complex and multi-dimensional nature of character development, where characters can be both central and polarizing in the narrative.
 ## Sentiment Analysis
 
