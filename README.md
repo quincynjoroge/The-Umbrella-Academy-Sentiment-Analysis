@@ -72,4 +72,49 @@ Instead, the spotlight turned to Allison, who took the lead with a substantial 6
 
 This shift in character dynamics and audience perceptions in Season 3 highlights the series' ability to evolve and challenge viewers' expectations, offering a different dimension to character interactions and storytelling. It also shows the complex and multi-dimensional nature of character development, where characters can be both central and polarizing in the narrative.
 ## Sentiment Analysis
+This report presents the findings of sentiment analysis conducted on the comments and discussions for each season of "Umbrella Academy" using two different sentiment analysis tools: TextBlob and VADER. The analysis aimed to understand the overall sentiment of audience reactions and identify any trends or changes in sentiment across the seasons.
+
+### Season 1 Sentiment Analysis
+#### TextBlob:
+**Positive Sentiment: 60.1% | Negative Sentiment: 25.9% | Neutral Sentiment: 13.9%**
+![Bar chart representing sentiment analysis](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/s1_textblob.png)
+
+#### VADER:
+**Positive Sentiment: 54.9% | Negative Sentiment: 34.9% | Neutral Sentiment: 10.2%**
+![Bar chart representing sentiment analysis](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/s1_vader.png)
+
+### Season 2 Sentiment Analysis
+#### TextBlob:
+**Positive Sentiment: 54.6% | Negative Sentiment: 23.7% | Neutral Sentiment: 21.7%**
+![Bar chart representing sentiment analysis](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/s2_textblob.png)
+
+#### VADER:
+**Positive Sentiment: 55.4% | Negative Sentiment: 29.2% | Neutral Sentiment: 15.3%**
+![Bar chart representing sentiment analysis](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/s2_vader.png)
+
+### Season 3 Sentiment Analysis
+#### TextBlob:
+**Positive Sentiment: 53.3% | Negative Sentiment: 29.7% | Neutral Sentiment: 17.0%**
+![Bar chart representing sentiment analysis](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/s3_textblob.png)
+
+#### VADER:
+**Positive Sentiment: 47.7% | Negative Sentiment: 39.9% | Neutral Sentiment: 12.4%**
+![Bar chart representing sentiment analysis](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/s3_vader.png)
+
+### Sentiment Analysis Trends
+#### Positive Sentiment:
+Across all three seasons, positive sentiment was consistently the most prevalent sentiment. However, there is a slight decline in positive sentiment from Season 1 to Season 3 according to both TextBlob and VADER. This decline suggests that while positive sentiment remained dominant, it may have become slightly less pronounced over time.
+
+#### Negative Sentiment:
+Negative sentiment, as measured by both TextBlob and VADER, increased from Season 1 to Season 3. Season 1 had the lowest negative sentiment, while Season 3 had the highest negative sentiment. This suggests a growing presence of negative opinions or criticisms as the series progressed.
+
+#### Neutral Sentiment:
+Neutral sentiment remained relatively stable across the seasons, with only slight fluctuations. While it's the least dominant sentiment category, it did not exhibit significant changes over the course of the series.
+
+## Conclusion
+The sentiment analysis of "Umbrella Academy" comments and discussions revealed some interesting trends. While positive sentiment remained the most prevalent, there was a decline in its prominence and an increase in negative sentiment from Season 1 to Season 3. This suggests that as the series developed, it may have elicited more mixed or critical reactions from the audience. These findings could be indicative of the evolving nature of the show's content, character arcs, or plotlines. Further qualitative analysis of the comments and discussions from each season may provide deeper insights into the reasons behind these sentiment shifts.
+
+
+
+
 
