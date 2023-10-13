@@ -20,6 +20,7 @@ YouTube comments related to "Umbrella Academy" were collected by visiting videos
 ## Preprocessing
 In this section, we will discuss the data preprocessing steps performed on the combined dataset of YouTube comments and Reddit comments specific to each season of "Umbrella Academy."
 These preprocessing steps ensure that the data is consistent, clean of noise, and ready for Sentiment Analysis.
+![Image of the data preprocessing steps](https://github.com/quincynjoroge/The-Umbrella-Academy-Sentiment-Analysis/blob/main/preprocess.png)
 
 ### Combining YouTube and Reddit Data
 Before preprocessing, we combined the datasets for each season. This merging process allowed us to consolidate comments from two distinct sources into one cohesive dataset, facilitating subsequent analysis.
